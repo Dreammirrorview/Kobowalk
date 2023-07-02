@@ -1,5 +1,1 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.ivoryhash.com	TRUE	/	FALSE	1999999999	ih_uid	ba9ceb02-8eac-4af1-b3db-227d546068e7
-.ivoryhash.com	TRUE	/	FALSE	1999999999	__ddg1_	8E0S9jMuaWKWa0K14TwK
 
